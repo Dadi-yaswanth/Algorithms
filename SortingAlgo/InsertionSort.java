@@ -1,4 +1,4 @@
-//Time complexity is O(n)--> for iteration O(n) and for swap O(1) so, O(n)+O(1) = O(n)
+//Time complexity is O(n)--> for iteration O(n^2) and for swap O(1) so, O(n^2)+O(1) = O(n^2)
 import java.util.Scanner;
 
 public class InsertionSort {
